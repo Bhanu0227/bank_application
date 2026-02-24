@@ -1,0 +1,30 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+**/.env.*
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+.npm/
+.yarn/
+.pnpm-store/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
